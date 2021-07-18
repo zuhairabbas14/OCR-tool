@@ -3,7 +3,7 @@
 ### USAGE
 
 ```
-python your_code.py --input=./test.pdf --output=output.text --verbose
+python ocr.py --input=./sample_image.jpg --output=output.txt --verbose
 ```
 
 * –input : input file
